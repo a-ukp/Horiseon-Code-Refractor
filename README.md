@@ -1,2 +1,4 @@
 # Horiseon-Code-Refractor
-Rice Coding Bootcamp-Week 02-Code Refractor HW
+Rice Coding Bootcamp
+Week 01
+Code Refractor HW
